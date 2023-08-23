@@ -21,7 +21,7 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let str = `╭「🌸𝐍𝐀𝐍𝐈 𝐁𝐎𝐓 🌸」
 │➯ *𝙷𝙾𝙻𝙰,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐏𝐚𝐜𝐡𝐨 𝐕𝐞𝐧𝐭𝐚𝐬
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝙋𝘼𝘾𝙃𝙊𝙉 𝙑𝙀𝙉𝙏𝘼𝙎 𝘿𝙊𝙈𝙄𝙉𝘼 
 │➯ *𝙸𝙽𝙵𝙾: Wa.me/525634990524
 │➯ *Yape: 914079837
 │➯ *ғᴇᴄʜᴀ:➟${date}
@@ -34,13 +34,13 @@ let str = `╭「🌸𝐍𝐀𝐍𝐈 𝐁𝐎𝐓 🌸」
 │➯ *🧿Experiencia:* ${exp}
 │➯ *⚓Rango:* ${role}
 │➯ *💎Diamantes:* ${limit}
-│➯ *👾Hades-Coins:* ${money}
+│➯ *👾NANI-Coins:* ${money}
 │➯ *🪙Tokens:* ${joincount}
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *QUIERES TENER UN BOT TU TAMBIEN?* ➻❥」
-│➯ *.aleprecios*
-│➯ *.aleinfo*
+│➯ *.pachonprecios*
+│➯ *.pachoninfo*
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *gana y compara* ➻❥」
