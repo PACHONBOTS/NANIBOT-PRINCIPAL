@@ -26,9 +26,9 @@ let str = `╭「𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙳𝙴 𝐏𝐀𝐂𝐇𝐎𝐍 
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐒」
-💌Bot Permanente : 🇲🇽60 MX= 1 GRUPO 🇲🇽100 MX = 2 GRUPOS💎 400
+💌Bot Permanente : 🇲🇽70 MX= 1 GRUPO 🇲🇽120 MX = 2 GRUPOS (💎 500)
 
-💌Bot Personalizado : 🇲🇽200 MX 💎1500
+💌Bot Personalizado : 🇲🇽300 MX 
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐁𝐎𝐓𝐂𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐆𝐑𝐔𝐏𝐎𝐒」
